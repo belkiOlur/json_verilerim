@@ -1,0 +1,59 @@
+{
+  "training_types": [
+    {
+      "id": "technical",
+      "name": {
+        "tr": "Teknik Antrenman",
+        "en": "Technical Training"
+      },
+      "description": {
+        "tr": "Top kontrolü, pas ve teknik beceri geliştirme.",
+        "en": "Ball control, passing, and technical skills development."
+      }
+    },
+    {
+      "id": "fitness",
+      "name": {
+        "tr": "Kondisyon / Fitness",
+        "en": "Fitness / Conditioning"
+      },
+      "description": {
+        "tr": "Dayanıklılık, kardiyo ve kondisyon geliştirme.",
+        "en": "Endurance, cardio, and fitness development."
+      }
+    },
+    {
+      "id": "strength",
+      "name": {
+        "tr": "Güç Antrenmanı",
+        "en": "Strength Training"
+      },
+      "description": {
+        "tr": "Kuvvet, kas ve patlayıcı güç geliştirme.",
+        "en": "Strength, muscle, and power development."
+      }
+    },
+    {
+      "id": "tactical",
+      "name": {
+        "tr": "Taktik Antrenman",
+        "en": "Tactical Training"
+      },
+      "description": {
+        "tr": "Oyun içi pozisyon alma ve strateji geliştirme.",
+        "en": "In-game positioning and strategy development."
+      }
+    },
+    {
+      "id": "recovery",
+      "name": {
+        "tr": "Rejenerasyon / Recovery",
+        "en": "Recovery / Stretching"
+      },
+      "description": {
+        "tr": "Hafif tempo egzersizler ve esneme çalışmaları.",
+        "en": "Light exercises and stretching."
+      }
+    }
+  ]
+}
