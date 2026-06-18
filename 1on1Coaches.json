@@ -56,4 +56,221 @@
       }
     }
   ]
+  "disclamier": [
+    {
+  "key": "disclaimer",
+  "version": "1.0",
+  "lastUpdated": "2026-06-16",
+  "languages": {
+    "tr": {
+      "title": "1on1 Coaches – Feragatname ve Sorumluluk Reddi Beyanı",
+      "sections": [
+        {
+          "title": "Giriş",
+          "content": [
+            "Lütfen bu metni dikkatlice okuyunuz. 1on1 Coaches uygulamasını indirerek, kayıt olarak veya kullanmaya devam ederek aşağıdaki şartları kabul etmiş sayılırsınız."
+          ]
+        },
+        {
+          "title": "1. Hizmetin Niteliği",
+          "content": [
+            "1on1 Coaches; sporcular, antrenörler, koçlar, eğitmenler ve diğer kullanıcıların antrenman, ders, etkinlik, organizasyon, iletişim, planlama ve takip süreçlerini kolaylaştırmak amacıyla sunulan dijital bir platformdur.",
+            "1on1 Coaches herhangi bir spor federasyonu, spor kulübü, eğitim kurumu veya resmi kuruluş adına hareket etmemekte olup bağımsız bir yazılım hizmetidir."
+          ]
+        },
+        {
+          "title": "2. Bilgilerin Doğruluğu ve Güncelliği",
+          "content": [
+            "Uygulamada yer alan tüm içerikler yalnızca bilgilendirme amacıyla sunulmaktadır.",
+            "Uygulama sahibi ve yazılım geliştiricisi bilgilerin doğruluğunu, güncelliğini, eksiksizliğini veya hatasız çalışacağını garanti etmez.",
+            "Kullanıcılar önemli kararlarını yalnızca uygulama üzerinde yer alan bilgilere dayanarak vermemelidir."
+          ]
+        },
+        {
+          "title": "3. Kullanıcı İçerikleri",
+          "content": [
+            "Kullanıcılar tarafından oluşturulan tüm içerikler ilgili kullanıcının sorumluluğundadır.",
+            "Uygulama sahibi ve yazılım geliştiricisi kullanıcılar arasında doğabilecek uyuşmazlıklardan sorumlu değildir."
+          ]
+        },
+        {
+          "title": "4. Spor Faaliyetleri ve Sağlık Sorumluluğu",
+          "content": [
+            "1on1 Coaches sağlık veya tıbbi danışmanlık hizmeti sunmaz.",
+            "Kullanıcılar tüm spor faaliyetlerinin risklerini kendilerinin üstlendiğini kabul eder.",
+            "Yaralanmalar veya sağlık sorunlarından uygulama sahibi ve geliştiricisi sorumlu tutulamaz."
+          ]
+        },
+        {
+          "title": "5. Bildirimler ve Takvim Kayıtları",
+          "content": [
+            "Bildirimler teknik nedenlerle gecikebilir veya hiç ulaşmayabilir.",
+            "Kaçırılan antrenman veya etkinliklerden uygulama sahibi ve geliştiricisi sorumlu değildir."
+          ]
+        },
+        {
+          "title": "6. Ücretler, Ödemeler ve Mali Hesaplamalar",
+          "content": [
+            "Uygulamada gösterilen ücretler, ödemeler, tahsilatlar ve mali hesaplamalar yalnızca bilgilendirme amaçlıdır.",
+            "Hesaplamaların doğruluğu garanti edilmez.",
+            "Gelir kaybı, ödeme hatası, muhasebe hatası, vergi yükümlülüğü veya mali zararlardan uygulama sahibi ve geliştiricisi sorumlu tutulamaz.",
+            "Uygulama hiçbir şekilde finansal, muhasebesel veya hukuki danışmanlık hizmeti sunmaz."
+          ]
+        },
+        {
+          "title": "7. Kullanıcılar Arasındaki Ticari İşlemler",
+          "content": [
+            "Ders satışları, rezervasyonlar, abonelikler ve diğer ticari işlemler kullanıcılar arasında gerçekleşir.",
+            "Uygulama sahibi ve geliştiricisi bu işlemlerin tarafı değildir."
+          ]
+        },
+        {
+          "title": "8. Üçüncü Taraf Hizmetler",
+          "content": [
+            "Uygulama Firebase, Google, Apple ve diğer üçüncü taraf servislerden yararlanabilir.",
+            "Bu servislerden kaynaklanan sorunlardan uygulama sahibi ve geliştiricisi sorumlu değildir."
+          ]
+        },
+        {
+          "title": "9. Hizmet Kesintileri ve Veri Kaybı",
+          "content": [
+            "Hizmet bakım, güncelleme veya teknik nedenlerle kesintiye uğrayabilir.",
+            "Veri kaybı veya erişim sorunlarından uygulama sahibi ve geliştiricisi sorumlu değildir."
+          ]
+        },
+        {
+          "title": "10. Hesap Güvenliği",
+          "content": [
+            "Kullanıcılar hesap güvenliğinden kendileri sorumludur.",
+            "Kullanıcı kaynaklı güvenlik sorunlarından uygulama sahibi ve geliştiricisi sorumlu değildir."
+          ]
+        },
+        {
+          "title": "11. Sorumluluğun Sınırlandırılması",
+          "content": [
+            "Uygulamanın kullanımı tamamen kullanıcının kendi risk ve sorumluluğu altındadır.",
+            "Uygulama sahibi ve geliştiricisi doğrudan veya dolaylı hiçbir zarardan sorumlu tutulamaz."
+          ]
+        },
+        {
+          "title": "12. Hizmetin Değiştirilmesi veya Sonlandırılması",
+          "content": [
+            "Uygulama sahibi hizmetleri değiştirme veya sonlandırma hakkını saklı tutar."
+          ]
+        },
+        {
+          "title": "13. Kabul Beyanı",
+          "content": [
+            "Uygulamayı kullanan herkes bu şartları kabul etmiş sayılır."
+          ]
+        }
+      ]
+    },
+    "en": {
+      "title": "1on1 Coaches – Disclaimer and Limitation of Liability",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": [
+            "Please read this disclaimer carefully. By downloading, registering for, or using 1on1 Coaches, you agree to the terms below."
+          ]
+        },
+        {
+          "title": "1. Nature of the Service",
+          "content": [
+            "1on1 Coaches is a digital platform designed to assist athletes, coaches, trainers, instructors and other users with scheduling, communication and activity management.",
+            "1on1 Coaches is an independent software service and is not affiliated with any sports federation, club, educational institution or government organization."
+          ]
+        },
+        {
+          "title": "2. Accuracy of Information",
+          "content": [
+            "All information provided within the application is for informational purposes only.",
+            "The application owner and developer do not guarantee the accuracy, completeness, availability or error-free operation of any information.",
+            "Users should not make important decisions based solely on information displayed in the application."
+          ]
+        },
+        {
+          "title": "3. User Content",
+          "content": [
+            "Users are solely responsible for any content they create, upload or share.",
+            "The application owner and developer are not responsible for disputes arising between users."
+          ]
+        },
+        {
+          "title": "4. Sports Activities and Health",
+          "content": [
+            "1on1 Coaches does not provide medical advice, diagnosis or treatment.",
+            "Users acknowledge and accept all risks associated with sports and physical activities.",
+            "The application owner and developer shall not be liable for injuries, health issues or related consequences."
+          ]
+        },
+        {
+          "title": "5. Notifications and Scheduling",
+          "content": [
+            "Notifications and reminders may be delayed, incomplete or not delivered due to technical reasons.",
+            "The application owner and developer are not responsible for missed activities or appointments."
+          ]
+        },
+        {
+          "title": "6. Fees, Payments and Financial Calculations",
+          "content": [
+            "Any fees, payments, balances, commissions or financial calculations displayed in the application are provided for informational purposes only.",
+            "Accuracy of calculations is not guaranteed.",
+            "The application owner and developer are not liable for financial losses, accounting errors, tax obligations or payment disputes.",
+            "The application does not provide financial, accounting, tax or legal advice."
+          ]
+        },
+        {
+          "title": "7. Transactions Between Users",
+          "content": [
+            "Lessons, reservations, subscriptions and other commercial transactions occur solely between users.",
+            "The application owner and developer are not parties to such transactions."
+          ]
+        },
+        {
+          "title": "8. Third-Party Services",
+          "content": [
+            "The application may use Firebase, Google, Apple and other third-party services.",
+            "The application owner and developer are not responsible for issues arising from such services."
+          ]
+        },
+        {
+          "title": "9. Service Interruptions and Data Loss",
+          "content": [
+            "The service may be interrupted due to maintenance, updates or technical issues.",
+            "The application owner and developer are not liable for data loss or access issues."
+          ]
+        },
+        {
+          "title": "10. Account Security",
+          "content": [
+            "Users are responsible for maintaining the security of their accounts.",
+            "The application owner and developer are not responsible for user-caused security breaches."
+          ]
+        },
+        {
+          "title": "11. Limitation of Liability",
+          "content": [
+            "Use of the application is entirely at the user's own risk.",
+            "The application owner and developer shall not be liable for any direct, indirect, incidental or consequential damages."
+          ]
+        },
+        {
+          "title": "12. Changes or Termination",
+          "content": [
+            "The application owner reserves the right to modify or discontinue the service at any time."
+          ]
+        },
+        {
+          "title": "13. Acceptance",
+          "content": [
+            "By using the application, users acknowledge and accept these terms."
+           ]
+         }
+       ]
+      }
+    }
+  }
+ ]
 }
