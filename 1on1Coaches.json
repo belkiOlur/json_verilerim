@@ -55,9 +55,8 @@
         "en": "Light exercises and stretching."
       }
     }
-  ]
-  "disclamier": [
-    {
+  ],
+  "disclamier": {
   "key": "disclaimer",
   "version": "1.0",
   "lastUpdated": "2026-06-16",
@@ -272,5 +271,4 @@
       }
     }
   }
- ]
 }
